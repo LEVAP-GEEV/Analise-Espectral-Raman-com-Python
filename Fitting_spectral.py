@@ -12,11 +12,9 @@ from scipy.sparse import diags
 from scipy.sparse.linalg import spsolve
 from tkinter import filedialog
 
-# Esconder a janela principal do tkinter
 root = tk.Tk()
 root.withdraw()
 
-# Abrir diálogo para selecionar arquivo
 file_path = filedialog.askopenfilename(
     title="Selecione o arquivo de espectro Raman",
     filetypes=[
@@ -26,7 +24,6 @@ file_path = filedialog.askopenfilename(
     ]
 )
 
-# Verificar se o usuário selecionou um arquivo
 if file_path:
     print(f"Arquivo selecionado: {os.path.basename(file_path)}")
 
@@ -150,9 +147,6 @@ else:
     metodo = "Peakutils (deg=3) - padrão"
 
 print(f"\nMétodo selecionado: {metodo}")
-
-# CONTINUAÇÃO DO CÓDIGO ORIGINAL COM A BASELINE ESCOLHIDA
-# =============================================================================
 
 # Suavização
 inten = intensity_corrigida.reshape(1, -1)
