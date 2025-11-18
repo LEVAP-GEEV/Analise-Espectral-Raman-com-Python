@@ -1,3 +1,4 @@
+# Seja bem vindo(a) ao PySAR (Python Spectrum Analisys Raman)
 # Importando bibliotecas necessárias
 import matplotlib.pyplot as plt
 import peakutils as pk
