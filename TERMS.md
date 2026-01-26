@@ -23,4 +23,4 @@ Software fornecido "COMO ESTÁ", sem garantias.
 O autor não se responsabiliza por danos.
 
 Contato: camposdavid2306@gmail.com
-Repositório: [LINK DO SEU GITHUB]
+Repositório: 
