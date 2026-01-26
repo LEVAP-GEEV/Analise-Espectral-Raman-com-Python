@@ -24,3 +24,5 @@ O autor não se responsabiliza por danos.
 
 Contato: camposdavid2306@gmail.com
 Repositório: https://github.com/LEVAP-GEEV/Analise-Espectral-Raman-com-Python.git
+
+Atualizado em 25/01/2026
