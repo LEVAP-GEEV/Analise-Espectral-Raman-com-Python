@@ -10,3 +10,13 @@ Este projeto está licenciado sob a licença MIT - veja [LICENSE](LICENSE) para 
 Aviso Legal: Este software é protegido por direitos autorais. 
 O código não pode ser redistribuído como produto próprio de terceiros.
 Atualizado em 25/01/2026
+
+Registro e Autoria:
+
+Autor: David de Souza Campos
+CPF: 050.260.922-25
+Início do desenvolvimento: 09/2025
+
+Declaração:
+Sou o autor original deste código. Qualquer uso deve manter 
+os créditos e licença MIT. Contato: camposdavid2306@gmail.com
