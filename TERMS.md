@@ -15,7 +15,7 @@ USO PERMITIDO
 
 USO PROIBIDO
 - Revender como produto próprio
-- Remover créditos/autorias
+- Remover créditos/autorais
 - Usar para atividades ilegais
 
 ISENÇÃO DE GARANTIA
@@ -25,4 +25,4 @@ O autor não se responsabiliza por danos.
 Contato: camposdavid2306@gmail.com
 Repositório: https://github.com/LEVAP-GEEV/Analise-Espectral-Raman-com-Python.git
 
-Atualizado em 25/01/2026
+Atualizado em 16/05/2026
