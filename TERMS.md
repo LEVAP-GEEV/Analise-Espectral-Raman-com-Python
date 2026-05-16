@@ -11,7 +11,7 @@ O código-fonte está disponível sob licença MIT.
 USO PERMITIDO
 - Usar o software livremente
 - Modificar o código
-- Distribuir cópias
+- Distribuir copias
 
 USO PROIBIDO
 - Revender como produto próprio
